@@ -1123,7 +1123,7 @@ int gpc_plot_spectrogram (h_GPC_Plot *plotHandle,
 * Return value :
 *   h_GPC_Plot - Plot handle
 *
-* Description : Initialize the gpc_init_image plot
+* Description : Initialize the image plot
 *
 ********************************************************/
 
